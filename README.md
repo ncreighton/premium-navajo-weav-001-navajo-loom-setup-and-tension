@@ -1,0 +1,2 @@
+# premium-navajo-weav-001-navajo-loom-setup-and-tension
+Struggling with uneven tension that distorts your Navajo weaving? Your loom setup might be the culprit.  This Notion template guides you through a systematic loom setup process and helps you log tension at each stage, so you can replicate perfect tension every time. No more guessing or inconsistent results.  ## What's Included  - Step-by-step loom
